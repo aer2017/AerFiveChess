@@ -1,0 +1,18 @@
+h1,h6{
+	text-align: center;	
+	font-family: 微软雅黑,"Microsoft Yahei";
+}
+h6{
+	color:#ccc;
+	position: relative;
+}
+.chess{
+	box-shadow: -2px -2px 2px #efefef,5px 5px 5px #b9b9b9;
+	cursor:pointer;
+}
+.prompt{
+	position: absolute;
+	color: black;
+	top: 40px;
+	left: 40%;
+}
